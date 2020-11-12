@@ -13,7 +13,7 @@
     z-index: 2;
     width: 70px;
     height: 900px;
-    background: url(../images/scroll.png);
+    background: url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/scroll.png);
     transition: all .5s ease-in-out;
     opacity: 1;
 }
